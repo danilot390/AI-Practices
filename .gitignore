@@ -1,0 +1,97 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files
+*.out
+*.log
+
+# Dataset files
+*.csv
+*.tsv
+*.data
+*.json
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pb
+*.onnx
+*.weights
+
+# TensorFlow checkpoints
+checkpoint
+*.ckpt
+*.ckpt.*
+
+# PyTorch files
+*.pt
+*.pth
+
+# Generated files
+*.tfrecord
+*.npz
+*.npy
+*.mat
+
+# Images and plots
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+
+# Large files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency files
+*.lock
+pip-log.txt
+
+# Configurations
+.env
+*.cfg
+*.ini
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+*~
+
+# Experiment tracking (e.g., MLflow, TensorBoard)
+mlruns/
+*.tensorboard
+*.event
+
+# Results and intermediate files
+results/
+outputs/
+logs/
+
+# Others
+my_functions.py
+
+
